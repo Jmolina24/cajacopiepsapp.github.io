@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "¿Puedo usar la app sin estar registrado o si no soy afiliado de Cajacopi EPS?",
+        "detalle": "Puedes usar la aplicación aunque no seas el afiliado, siempre y cuando cuentes con el consentimiento del afiliado y te hayas registrado con los datos personales del afiliado.Recuerda que puedes crear una cuenta a través  del formulario crear una cuenta ubicado en la ventana de inicio de sesión.",
+        "icon": "add-circle-outline",
+        "mostrar_detalle": false
+    },    
+    {
+        "titulo": "Si el registro fue exitoso, pero no me llega el correo, ni sms y tampoco notificación con la clave, ¿qué debo hacer?",
+        "detalle": "Si esto sucede Reporta un problema con la App ó por favor notificar al correo: desarrollo.app@cajacopieps.co , para brindarte una solución en el menor tiempo.",
+        "icon": "add-circle-outline",
+        "mostrar_detalle": false
+    },   
+    {
+        "titulo": "¿Debo registrarme cada vez que abro la aplicación?",
+        "detalle": "No, el registro solo se debe hacer una vez. La aplicación permanece autenticada por un tiempo de una hora, cada vez que haya pasado una hora se cerrara la sesión automaticamente y pedira que vuelvas a ingresar los datos de inicio de sesión.",
+        "icon": "add-circle-outline",
+        "mostrar_detalle": false
+    },
+    {
+        "titulo": "¿Quiénes pueden registrarse en la aplicación?",
+        "detalle": "Todos los afiliados de Cajacopi EPS que se encuentren en estado ACTIVO y sus beneficiarios si su grupo familiar tiene mas de una persona y ademas también son afiliados de Cajacopi EPS.",
+        "icon": "add-circle-outline",
+        "mostrar_detalle": false
+    },
+    {
+        "titulo": "¿Qué hago si mis datos en la app no son los correctos?",
+        "detalle": "Ingresa directamente al portal Genesis opción AFILIADOS -> Consulta AFiliado -> Datos Basicos y actualiza tus datos o también, puedes acudir a los siguientes canales de atención: Línea Gratuita Nacional: 01 8000 111 446. Call Center: (+57) (5) 318 5930 o (+57) (5) 386 0032. Correo: PQR@cajacopieps.com.",
+        "icon": "add-circle-outline",
+        "mostrar_detalle": false
+    },
+    {
+        "titulo": "¿Necesito tener plan de datos o conexión a internet para usar la aplicación?",
+        "detalle": "Sí, para acceder a todos los servicios de la aplicación, el dispositivo movil debe  estar conectado a Internet por medio de  un plan de datos o conexión wifi.",
+        "icon": "add-circle-outline",
+        "mostrar_detalle": false
+    },
+    {
+        "titulo": "¿Qué debo tener activado en mi celular para que funcione la aplicación?",
+        "detalle": "Debes tener activado el GPS para que puedas utilizar la red de prestación y para futuros desarrollos la localización va a ser muy importante.",
+        "icon": "add-circle-outline",
+        "mostrar_detalle": false
+    },
+    {
+        "titulo": "¿Cómo cambio la contraseña para ingresar a la aplicación?",
+        "detalle": "Para cambiar la contraseña de ingreso a la aplicación ingresa a iniciar sesión y seleciona ¿Has olvidado tu contraseña?, digita tus datos personales y luego la nueva clave, la aplicación te pedira los nuevos datos  de sesión.",
+        "icon": "add-circle-outline",
+        "mostrar_detalle": false
+    }
+]

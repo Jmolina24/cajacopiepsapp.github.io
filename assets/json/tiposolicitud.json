@@ -1,0 +1,26 @@
+[    
+    {
+		"Codigo": "C",
+		"Nombre": "Consulta y/o Solicitud de Información"
+	},
+	{
+		"Codigo": "D",
+		"Nombre": "Derecho de Petición"
+	},
+	{
+		"Codigo": "F",
+		"Nombre": "Felicitaciones"
+	},
+	{
+		"Codigo": "H",
+		"Nombre": "Habeas Data"
+	},
+	{
+		"Codigo": "Q",
+		"Nombre": "Queja"
+	},
+	{
+		"Codigo": "R",
+		"Nombre": "Reclamo"
+	}
+]

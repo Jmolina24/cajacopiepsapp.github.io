@@ -1,0 +1,42 @@
+[
+    {
+        "Codigo": "CC",
+        "Nombre": "Cedula de Ciudadanía"
+    },
+    {
+        "Codigo": "TI",
+        "Nombre": "Tarjeta de Identidad"
+    },
+    {
+        "Codigo": "RC",
+        "Nombre": "Registro Civil"
+    },
+    {
+        "Codigo": "CN",
+        "Nombre": "Certificado Nacido Vivo"
+    },
+    {
+        "Codigo": "CE",
+        "Nombre": "Cedula de Extranjería"
+    },
+    {
+        "Codigo": "PA",
+        "Nombre": "Pasaporte"
+    },
+    {
+        "Codigo": "PE",
+        "Nombre": "Permiso Especial de Permanencia"
+    },
+    {
+        "Codigo": "AS",
+        "Nombre": "Adulto sin Identificación"
+    },
+    {
+        "Codigo": "MS",
+        "Nombre": "Menor sin Identificación"
+    },
+    {
+        "Codigo": "SC",
+        "Nombre": "Salvo Conducto"
+    }
+]
